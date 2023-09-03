@@ -11,7 +11,7 @@ The datasets contains transactions made by credit cards in September 2013 by eur
 
 #Getting started
 get the code from the repository
-git clone https://github.com/sagnikghoshcr7/Credit-Card-Fraud-Detection.git 
+git clone https://github.com/pbmanirudh/credit-card-fraud-detection
 download the dataset that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
 
 install required python packages if previously not installed
